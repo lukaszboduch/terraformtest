@@ -1,3 +1,3 @@
-workflow Export-Azure-DB
+workflow ExportAzureDB-PowerShellWorkflow
 {
 }
