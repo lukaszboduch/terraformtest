@@ -1,3 +1,3 @@
-workflow Clean-ResourceGroup.ps1
+workflow Clean-Resource-Groups
 {
 }
