@@ -1,3 +1,3 @@
-workflow Clean-Resource-Groups
+workflow Automation-Clean-Resource-Groups
 {
 }
